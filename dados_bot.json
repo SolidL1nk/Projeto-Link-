@@ -1,0 +1,697 @@
+{
+    "posicoes": {
+        "BTCUSDT": true,
+        "SOLUSDT": true
+    },
+    "precos_compra": {
+        "BTCUSDT": 81104.8,
+        "SOLUSDT": 131.15
+    },
+    "stop_losses": {
+        "BTCUSDT": 77048.8,
+        "SOLUSDT": 124.59
+    },
+    "take_profits": {
+        "BTCUSDT": 98800.0,
+        "SOLUSDT": 187.04
+    },
+    "historico_patrimonio": [
+        {
+            "timestamp": "2025-04-15 05:02:22",
+            "saldo_total_usdt": 21.8871209336
+        },
+        {
+            "timestamp": "2025-04-15 06:02:25",
+            "saldo_total_usdt": 21.902450009999995
+        },
+        {
+            "timestamp": "2025-04-15 07:02:28",
+            "saldo_total_usdt": 22.099678805
+        },
+        {
+            "timestamp": "2025-04-15 07:53:02",
+            "saldo_total_usdt": 21.951956850800002
+        },
+        {
+            "timestamp": "2025-04-15 07:54:43",
+            "saldo_total_usdt": 21.948995480999997
+        },
+        {
+            "timestamp": "2025-04-15 08:00:47",
+            "saldo_total_usdt": 21.955438658
+        },
+        {
+            "timestamp": "2025-04-15 08:56:27",
+            "saldo_total_usdt": 21.901488046199997
+        },
+        {
+            "timestamp": "2025-04-15 09:01:42",
+            "saldo_total_usdt": 21.904329227799998
+        },
+        {
+            "timestamp": "2025-04-15 09:02:23",
+            "saldo_total_usdt": 21.9212030714
+        },
+        {
+            "timestamp": "2025-04-15 10:02:26",
+            "saldo_total_usdt": 22.011222680000003
+        },
+        {
+            "timestamp": "2025-04-15 10:40:10",
+            "saldo_total_usdt": 22.078765953
+        },
+        {
+            "timestamp": "2025-04-15 17:48:15",
+            "saldo_total_usdt": 21.340557579
+        },
+        {
+            "timestamp": "2025-04-15 17:49:00",
+            "saldo_total_usdt": 21.3307395938
+        },
+        {
+            "timestamp": "2025-04-15 18:49:02",
+            "saldo_total_usdt": 21.400346438599996
+        },
+        {
+            "timestamp": "2025-04-15 19:49:05",
+            "saldo_total_usdt": 21.1969156862
+        },
+        {
+            "timestamp": "2025-04-15 20:49:07",
+            "saldo_total_usdt": 21.160993808
+        },
+        {
+            "timestamp": "2025-04-15 21:49:10",
+            "saldo_total_usdt": 21.139450019999998
+        },
+        {
+            "timestamp": "2025-04-15 22:49:12",
+            "saldo_total_usdt": 21.166367757799996
+        },
+        {
+            "timestamp": "2025-04-16 00:01:16",
+            "saldo_total_usdt": 21.247862807799997
+        },
+        {
+            "timestamp": "2025-04-16 01:01:18",
+            "saldo_total_usdt": 21.18388661
+        },
+        {
+            "timestamp": "2025-04-16 01:18:47",
+            "saldo_total_usdt": 21.110431575
+        },
+        {
+            "timestamp": "2025-04-16 01:36:59",
+            "saldo_total_usdt": 21.0828869126
+        },
+        {
+            "timestamp": "2025-04-16 01:39:36",
+            "saldo_total_usdt": 21.0740293522
+        },
+        {
+            "timestamp": "2025-04-16 01:47:59",
+            "saldo_total_usdt": 21.0833650322
+        },
+        {
+            "timestamp": "2025-04-16 01:52:57",
+            "saldo_total_usdt": 21.09389971
+        },
+        {
+            "timestamp": "2025-04-16 01:57:35",
+            "saldo_total_usdt": 21.118316311
+        },
+        {
+            "timestamp": "2025-04-16 02:01:59",
+            "saldo_total_usdt": 21.1414666266
+        },
+        {
+            "timestamp": "2025-04-16 03:02:02",
+            "saldo_total_usdt": 21.0629535064
+        },
+        {
+            "timestamp": "2025-04-16 04:02:05",
+            "saldo_total_usdt": 21.15937017
+        },
+        {
+            "timestamp": "2025-04-16 05:02:07",
+            "saldo_total_usdt": 21.0134109826
+        },
+        {
+            "timestamp": "2025-04-16 06:02:10",
+            "saldo_total_usdt": 21.0850676446
+        },
+        {
+            "timestamp": "2025-04-16 08:36:51",
+            "saldo_total_usdt": 21.079606636799998
+        },
+        {
+            "timestamp": "2025-04-16 09:36:54",
+            "saldo_total_usdt": 21.2169642116
+        },
+        {
+            "timestamp": "2025-04-16 10:36:56",
+            "saldo_total_usdt": 21.112718857599997
+        },
+        {
+            "timestamp": "2025-04-16 11:36:59",
+            "saldo_total_usdt": 21.358664008799998
+        },
+        {
+            "timestamp": "2025-04-16 12:37:01",
+            "saldo_total_usdt": 21.5736271528
+        },
+        {
+            "timestamp": "2025-04-16 13:37:04",
+            "saldo_total_usdt": 21.4256492508
+        },
+        {
+            "timestamp": "2025-04-16 17:48:56",
+            "saldo_total_usdt": 21.8023544078
+        },
+        {
+            "timestamp": "2025-04-16 18:48:59",
+            "saldo_total_usdt": 21.840989711199995
+        },
+        {
+            "timestamp": "2025-04-16 19:49:02",
+            "saldo_total_usdt": 21.8029920322
+        },
+        {
+            "timestamp": "2025-04-16 22:51:13",
+            "saldo_total_usdt": 21.706414849999998
+        },
+        {
+            "timestamp": "2025-04-16 23:51:15",
+            "saldo_total_usdt": 21.665943094999996
+        },
+        {
+            "timestamp": "2025-04-17 00:51:18",
+            "saldo_total_usdt": 21.5380613026
+        },
+        {
+            "timestamp": "2025-04-17 01:51:20",
+            "saldo_total_usdt": 21.6257993264
+        },
+        {
+            "timestamp": "2025-04-17 08:48:10",
+            "saldo_total_usdt": 21.9023237864
+        },
+        {
+            "timestamp": "2025-04-17 09:15:25",
+            "saldo_total_usdt": 21.939837765
+        },
+        {
+            "timestamp": "2025-04-17 09:48:12",
+            "saldo_total_usdt": 21.985137457
+        },
+        {
+            "timestamp": "2025-04-17 10:15:27",
+            "saldo_total_usdt": 21.91129394
+        },
+        {
+            "timestamp": "2025-04-17 10:48:15",
+            "saldo_total_usdt": 21.846237340000002
+        },
+        {
+            "timestamp": "2025-04-17 11:15:30",
+            "saldo_total_usdt": 21.727596206599998
+        },
+        {
+            "timestamp": "2025-04-17 11:48:17",
+            "saldo_total_usdt": 21.6960209338
+        },
+        {
+            "timestamp": "2025-04-17 12:15:32",
+            "saldo_total_usdt": 21.8447412342
+        },
+        {
+            "timestamp": "2025-04-17 12:48:20",
+            "saldo_total_usdt": 21.8682511006
+        },
+        {
+            "timestamp": "2025-04-17 13:15:35",
+            "saldo_total_usdt": 21.918831933
+        },
+        {
+            "timestamp": "2025-04-17 13:48:22",
+            "saldo_total_usdt": 22.0269004404
+        },
+        {
+            "timestamp": "2025-04-17 14:15:37",
+            "saldo_total_usdt": 22.0986278262
+        },
+        {
+            "timestamp": "2025-04-17 14:48:25",
+            "saldo_total_usdt": 22.1753829976
+        },
+        {
+            "timestamp": "2025-04-17 15:15:40",
+            "saldo_total_usdt": 22.1568895042
+        },
+        {
+            "timestamp": "2025-04-17 15:48:27",
+            "saldo_total_usdt": 22.112829929999997
+        },
+        {
+            "timestamp": "2025-04-17 16:15:42",
+            "saldo_total_usdt": 21.996793432799997
+        },
+        {
+            "timestamp": "2025-04-17 16:48:30",
+            "saldo_total_usdt": 21.8513694378
+        },
+        {
+            "timestamp": "2025-04-17 17:15:44",
+            "saldo_total_usdt": 22.036033019599998
+        },
+        {
+            "timestamp": "2025-04-17 17:48:33",
+            "saldo_total_usdt": 22.1132290216
+        },
+        {
+            "timestamp": "2025-04-17 18:15:47",
+            "saldo_total_usdt": 22.034927279599998
+        },
+        {
+            "timestamp": "2025-04-17 18:48:35",
+            "saldo_total_usdt": 22.077450866
+        },
+        {
+            "timestamp": "2025-04-17 19:15:49",
+            "saldo_total_usdt": 22.0773214902
+        },
+        {
+            "timestamp": "2025-04-17 19:48:37",
+            "saldo_total_usdt": 21.996956149600003
+        },
+        {
+            "timestamp": "2025-04-17 20:15:51",
+            "saldo_total_usdt": 22.033158142399998
+        },
+        {
+            "timestamp": "2025-04-17 20:48:40",
+            "saldo_total_usdt": 22.033091065599997
+        },
+        {
+            "timestamp": "2025-04-17 21:15:54",
+            "saldo_total_usdt": 22.0413746556
+        },
+        {
+            "timestamp": "2025-04-17 21:48:42",
+            "saldo_total_usdt": 22.010681385199998
+        },
+        {
+            "timestamp": "2025-04-17 22:15:57",
+            "saldo_total_usdt": 22.1577617536
+        },
+        {
+            "timestamp": "2025-04-17 22:48:45",
+            "saldo_total_usdt": 22.098379684199998
+        },
+        {
+            "timestamp": "2025-04-17 23:15:59",
+            "saldo_total_usdt": 22.036847604
+        },
+        {
+            "timestamp": "2025-04-17 23:48:47",
+            "saldo_total_usdt": 22.1222523268
+        },
+        {
+            "timestamp": "2025-04-18 00:16:02",
+            "saldo_total_usdt": 22.0684538356
+        },
+        {
+            "timestamp": "2025-04-18 00:48:50",
+            "saldo_total_usdt": 22.035599496399996
+        },
+        {
+            "timestamp": "2025-04-18 01:16:05",
+            "saldo_total_usdt": 21.9504561182
+        },
+        {
+            "timestamp": "2025-04-18 01:48:53",
+            "saldo_total_usdt": 21.9712743172
+        },
+        {
+            "timestamp": "2025-04-18 02:16:08",
+            "saldo_total_usdt": 21.973615648200003
+        },
+        {
+            "timestamp": "2025-04-18 02:48:56",
+            "saldo_total_usdt": 21.9525502674
+        },
+        {
+            "timestamp": "2025-04-18 03:16:11",
+            "saldo_total_usdt": 21.9986852208
+        },
+        {
+            "timestamp": "2025-04-18 03:48:59",
+            "saldo_total_usdt": 21.9584039294
+        },
+        {
+            "timestamp": "2025-04-18 04:16:13",
+            "saldo_total_usdt": 21.9818375582
+        },
+        {
+            "timestamp": "2025-04-18 04:49:01",
+            "saldo_total_usdt": 22.012678593
+        },
+        {
+            "timestamp": "2025-04-18 17:03:19",
+            "saldo_total_usdt": 21.956221762
+        },
+        {
+            "timestamp": "2025-04-18 18:03:21",
+            "saldo_total_usdt": 21.9429920476
+        },
+        {
+            "timestamp": "2025-04-18 19:03:24",
+            "saldo_total_usdt": 21.9729937926
+        },
+        {
+            "timestamp": "2025-04-18 23:46:16",
+            "saldo_total_usdt": 22.2324271222
+        },
+        {
+            "timestamp": "2025-04-19 01:16:17",
+            "saldo_total_usdt": 22.44142729
+        },
+        {
+            "timestamp": "2025-04-19 02:16:19",
+            "saldo_total_usdt": 22.3737396218
+        },
+        {
+            "timestamp": "2025-04-19 02:21:35",
+            "saldo_total_usdt": 22.408179229199998
+        },
+        {
+            "timestamp": "2025-04-19 03:21:38",
+            "saldo_total_usdt": 22.3834997178
+        },
+        {
+            "timestamp": "2025-04-19 04:21:40",
+            "saldo_total_usdt": 22.418500725399994
+        },
+        {
+            "timestamp": "2025-04-19 05:21:43",
+            "saldo_total_usdt": 22.4571062678
+        },
+        {
+            "timestamp": "2025-04-19 06:21:45",
+            "saldo_total_usdt": 22.542870106400002
+        },
+        {
+            "timestamp": "2025-04-19 07:28:23",
+            "saldo_total_usdt": 22.514908847199997
+        },
+        {
+            "timestamp": "2025-04-19 08:28:26",
+            "saldo_total_usdt": 22.472443149999997
+        },
+        {
+            "timestamp": "2025-04-19 09:28:28",
+            "saldo_total_usdt": 22.4954866372
+        },
+        {
+            "timestamp": "2025-04-19 10:28:31",
+            "saldo_total_usdt": 22.532642065399997
+        },
+        {
+            "timestamp": "2025-04-19 11:28:33",
+            "saldo_total_usdt": 22.5569674228
+        },
+        {
+            "timestamp": "2025-04-19 20:46:12",
+            "saldo_total_usdt": 22.521829380999996
+        },
+        {
+            "timestamp": "2025-04-19 20:47:52",
+            "saldo_total_usdt": 22.5291838864
+        },
+        {
+            "timestamp": "2025-04-28 11:39:00",
+            "saldo_total_usdt": 24.3672614714
+        },
+        {
+            "timestamp": "2025-04-28 11:39:04",
+            "saldo_total_usdt": 24.364436255999998
+        },
+        {
+            "timestamp": "2025-04-28 11:44:35",
+            "saldo_total_usdt": 24.385045642999998
+        },
+        {
+            "timestamp": "2025-04-28 11:44:39",
+            "saldo_total_usdt": 24.376503920399998
+        },
+        {
+            "timestamp": "2025-04-28 11:48:39",
+            "saldo_total_usdt": 24.402739584800003
+        },
+        {
+            "timestamp": "2025-04-28 11:48:43",
+            "saldo_total_usdt": 24.4036173748
+        },
+        {
+            "timestamp": "2025-04-28 12:01:06",
+            "saldo_total_usdt": 24.312271393399996
+        },
+        {
+            "timestamp": "2025-04-28 12:01:11",
+            "saldo_total_usdt": 24.313166149999997
+        },
+        {
+            "timestamp": "2025-04-28 13:01:15",
+            "saldo_total_usdt": 24.132599138
+        },
+        {
+            "timestamp": "2025-04-28 14:01:20",
+            "saldo_total_usdt": 24.125096316199997
+        },
+        {
+            "timestamp": "2025-04-29 01:59:36",
+            "saldo_total_usdt": 24.2137726756
+        },
+        {
+            "timestamp": "2025-04-29 01:59:42",
+            "saldo_total_usdt": 24.2161676834
+        },
+        {
+            "timestamp": "2025-04-29 02:59:46",
+            "saldo_total_usdt": 24.2277466722
+        },
+        {
+            "timestamp": "2025-04-29 03:59:51",
+            "saldo_total_usdt": 24.4059899924
+        },
+        {
+            "timestamp": "2025-04-29 04:59:56",
+            "saldo_total_usdt": 24.5011649858
+        },
+        {
+            "timestamp": "2025-04-29 06:00:01",
+            "saldo_total_usdt": 24.553249819999998
+        },
+        {
+            "timestamp": "2025-04-29 07:00:06",
+            "saldo_total_usdt": 24.5212157898
+        },
+        {
+            "timestamp": "2025-04-29 08:00:11",
+            "saldo_total_usdt": 24.4312945714
+        },
+        {
+            "timestamp": "2025-04-29 09:00:16",
+            "saldo_total_usdt": 24.540890457799996
+        },
+        {
+            "timestamp": "2025-04-29 10:00:21",
+            "saldo_total_usdt": 24.3852194946
+        },
+        {
+            "timestamp": "2025-04-29 11:00:26",
+            "saldo_total_usdt": 24.2944803896
+        },
+        {
+            "timestamp": "2025-04-29 12:00:31",
+            "saldo_total_usdt": 24.4692313198
+        },
+        {
+            "timestamp": "2025-04-29 13:00:44",
+            "saldo_total_usdt": 0.0
+        },
+        {
+            "timestamp": "2025-04-29 14:29:57",
+            "saldo_total_usdt": 0.0
+        },
+        {
+            "timestamp": "2025-04-29 15:30:21",
+            "saldo_total_usdt": 0.0
+        },
+        {
+            "timestamp": "2025-04-30 07:22:21",
+            "saldo_total_usdt": 0.0
+        },
+        {
+            "timestamp": "2025-04-30 08:22:46",
+            "saldo_total_usdt": 0.0
+        },
+        {
+            "timestamp": "2025-04-30 09:23:11",
+            "saldo_total_usdt": 0.0
+        },
+        {
+            "timestamp": "2025-04-30 10:23:35",
+            "saldo_total_usdt": 0.0
+        },
+        {
+            "timestamp": "2025-04-30 11:24:07",
+            "saldo_total_usdt": 0.0
+        },
+        {
+            "timestamp": "2025-04-30 12:24:31",
+            "saldo_total_usdt": 0.0
+        },
+        {
+            "timestamp": "2025-04-30 13:24:55",
+            "saldo_total_usdt": 0.0
+        },
+        {
+            "timestamp": "2025-04-30 14:25:20",
+            "saldo_total_usdt": 0.0
+        },
+        {
+            "timestamp": "2025-04-30 14:30:09",
+            "saldo_total_usdt": 23.8942695956
+        },
+        {
+            "timestamp": "2025-04-30 14:30:13",
+            "saldo_total_usdt": 23.8952360228
+        },
+        {
+            "timestamp": "2025-04-30 15:30:20",
+            "saldo_total_usdt": 24.0900047474
+        },
+        {
+            "timestamp": "2025-04-30 16:30:26",
+            "saldo_total_usdt": 23.9961166664
+        },
+        {
+            "timestamp": "2025-04-30 17:02:25",
+            "saldo_total_usdt": 24.1538951386
+        },
+        {
+            "timestamp": "2025-04-30 17:02:30",
+            "saldo_total_usdt": 24.1769548296
+        },
+        {
+            "timestamp": "2025-04-30 18:02:35",
+            "saldo_total_usdt": 24.299239024799995
+        },
+        {
+            "timestamp": "2025-04-30 18:39:44",
+            "saldo_total_usdt": 24.2505343956
+        },
+        {
+            "timestamp": "2025-04-30 18:39:48",
+            "saldo_total_usdt": 24.249657803399998
+        },
+        {
+            "timestamp": "2025-04-30 19:39:54",
+            "saldo_total_usdt": 24.246205021199998
+        },
+        {
+            "timestamp": "2025-04-30 20:39:59",
+            "saldo_total_usdt": 24.353875926
+        },
+        {
+            "timestamp": "2025-04-30 21:40:05",
+            "saldo_total_usdt": 24.325088934199997
+        },
+        {
+            "timestamp": "2025-04-30 22:40:11",
+            "saldo_total_usdt": 24.446615343599998
+        },
+        {
+            "timestamp": "2025-04-30 23:40:17",
+            "saldo_total_usdt": 24.55052884
+        },
+        {
+            "timestamp": "2025-05-01 00:40:22",
+            "saldo_total_usdt": 24.4932423418
+        },
+        {
+            "timestamp": "2025-05-01 01:40:29",
+            "saldo_total_usdt": 24.4286512376
+        },
+        {
+            "timestamp": "2025-05-01 02:40:35",
+            "saldo_total_usdt": 24.529864314
+        },
+        {
+            "timestamp": "2025-05-01 03:40:43",
+            "saldo_total_usdt": 24.487085004
+        },
+        {
+            "timestamp": "2025-05-01 04:40:50",
+            "saldo_total_usdt": 24.5689066988
+        },
+        {
+            "timestamp": "2025-05-01 05:40:55",
+            "saldo_total_usdt": 24.668963767799998
+        },
+        {
+            "timestamp": "2025-05-01 06:49:26",
+            "saldo_total_usdt": 24.8053698544
+        },
+        {
+            "timestamp": "2025-05-01 06:49:34",
+            "saldo_total_usdt": 24.808563794799998
+        },
+        {
+            "timestamp": "2025-05-01 06:51:31",
+            "saldo_total_usdt": 24.8265230024
+        },
+        {
+            "timestamp": "2025-05-01 06:51:38",
+            "saldo_total_usdt": 24.819684156599997
+        },
+        {
+            "timestamp": "2025-05-01 06:59:15",
+            "saldo_total_usdt": 24.778298888400002
+        },
+        {
+            "timestamp": "2025-05-01 06:59:23",
+            "saldo_total_usdt": 24.7779253722
+        },
+        {
+            "timestamp": "2025-05-01 07:27:10",
+            "saldo_total_usdt": 24.924829713999998
+        },
+        {
+            "timestamp": "2025-05-01 07:27:17",
+            "saldo_total_usdt": 24.9268082822
+        },
+        {
+            "timestamp": "2025-05-01 07:29:18",
+            "saldo_total_usdt": 24.939384208599996
+        },
+        {
+            "timestamp": "2025-05-01 07:29:24",
+            "saldo_total_usdt": 24.9504686632
+        },
+        {
+            "timestamp": "2025-05-02 05:28:19",
+            "saldo_total_usdt": 24.757074879
+        },
+        {
+            "timestamp": "2025-05-02 05:28:24",
+            "saldo_total_usdt": 24.7579394932
+        }
+    ],
+    "ultima_alta_semanal": {
+        "BTCUSDT": 97424.02,
+        "SOLUSDT": 157.0
+    },
+    "historico_operacoes": []
+}
